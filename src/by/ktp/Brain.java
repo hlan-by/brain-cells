@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class Brain {
-    private long lifeCycles = 50000000;
+    private long lifeCycles = 378_691_200_000L;
     public void activate() {
         //todo
     }
